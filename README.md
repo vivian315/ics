@@ -28,5 +28,6 @@ END:VALARM
 END:VEVENT
 END:VCALENDAR 
 ```
+更多ics文件格式说明可参见：https://www.kanzaki.com/docs/ical/
 
 日历文件编辑好后，打开Mac日历---文件--- 导入...--- 选择日历文件 --- 新建日历，即可
